@@ -1,6 +1,6 @@
 # jpa01-zsjkwon
 
-Deployed at: http://jpa01-zsjkwon.dokku-02.cs.ucsb.edu
+Deployed at: https://jpa01-zsjkwon.dokku-02.cs.ucsb.edu
 
 # About this repo
 
